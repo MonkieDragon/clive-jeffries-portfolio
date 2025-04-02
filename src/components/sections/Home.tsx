@@ -12,9 +12,8 @@ export const Home = () => {
             Hi, I'm Clive
           </h1>
           <p className="text-gray-300 text-lg mb-8 max-w-lg mx-auto">
-            I'm desperate for a job give me a job please just
-            <br />
-            GIVE ME A FUCKING JOB
+            I'm passionate about front end engineering, game development and
+            small dogs called Poppy.
           </p>
           <div className="flex justify-center space-x-4">
             <a

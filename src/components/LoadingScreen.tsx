@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const LoadingScreen = ({ onComplete }) => {
+const LoadingScreen = ({ onComplete }: any) => {
   const [text, setText] = useState("");
   const fullText = "<Hello World / >";
 
